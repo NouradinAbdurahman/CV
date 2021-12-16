@@ -18,6 +18,7 @@ progress1.style.width = progress1.getAttribute("data-done") + "%";
 setTimeout(() => {
 progress2.style.opacity=1;
 progress2.style.width = progress2.getAttribute("data-done") + "%";
+
 }, 500);
 setTimeout(() => {
 progress3.style.opacity=1;

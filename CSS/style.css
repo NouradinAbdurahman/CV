@@ -19,6 +19,7 @@ body{
     margin: 15px;
     display: flex;
     flex-direction: row;
+    
 }
 .information-one{
     width: 50%;  
